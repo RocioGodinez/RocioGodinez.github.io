@@ -1,0 +1,140 @@
+|body {
+    background-image: url("https://medibangpaint.com/wp-content/uploads/2020/09/1.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+  }
+  
+  header {
+    background-color: white;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  main { color: #e06016
+  }
+  
+ nav {
+  display: flex;
+  align-items: stretch;
+  jusify-content: space-between;
+  padding-top: 20px;
+  padding-left: 5px;
+  font-weight: bold;
+  float: right
+}
+ul li { 
+  display: inline-block; 
+  padding: 25px 25px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+a{ color: #e06016;
+text-decoration: none;}
+
+a:hover{ color: #003366;}
+  
+  main { color: #e06016
+  }
+  
+  .footer {
+    background-color: #003366;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+  }
+  
+  h1 {
+    color: #e06016;
+  }
+  
+  p {
+    color: black;
+    font-size: 20px;
+  }
+  
+  #textoTitulo {
+    display:flex
+    padding-top: 50px;
+    color:black ;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom:20px
+  }
+  
+  .claseTextos {
+    display: flex;
+    color: e060163;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+  
+  }
+  
+  
+  .redondear-logo {
+    display: grid;
+    align-items: stretch;
+    padding-top: 20px;
+    padding-left: 5px;
+    float: center;
+    place-items: center;  
+}
+
+.slide{
+ margin-top: 10px;
+}
+
+.slide img {
+  height: 500px;
+  weight: 50%
+}
+
+.cer{
+  color: #e06016;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-items: center;
+}
+  
+footer img{
+  margin-top: 30px;
+  height: 30px;
+  }
+
+  footer{
+    font-family: system-ui;
+    }
+
+
+  .contenedor{
+    display: flex;
+    padding: 25px; 
+    justify-content: space-between;  
+  }
+
+  .img{
+    text-align:end;
+    margin-left: 30px;
+    
+  
+  }
+  
+  .asd {
+  text-align: center; 
+  align-items: center;
+  justify-content: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: coral;
+  margin-top: 40px;
+}
+
+.lol {
+  font-size: 25px;
+  text-align:justify;
+  margin-left: 30px;
+  margin-top: 30px;
+
+}
